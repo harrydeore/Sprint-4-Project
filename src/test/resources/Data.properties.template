@@ -1,0 +1,9 @@
+# Copy this file to src/test/resources/Data.properties and fill in values.
+# This file is safe to commit, but the real Data.properties is .gitignored.
+
+owner = <your-github-username>
+reporistory = <an-existing-repo-to-GET>   # (spelling kept to match code)
+token = <personal-access-token>           # DO NOT COMMIT REAL TOKEN ANYWHERE
+reponame = <name-for-new-repo>
+repodescription = <initial-description>
+updatedrepodescription = <updated-description>

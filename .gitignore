@@ -1,0 +1,27 @@
+# Java & Maven
+target/
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+
+# Eclipse/IDE
+.project
+.classpath
+.settings/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports & artifacts
+test-output/
+surefire-reports/
+cucumber-report/
+
+
+# Local config (contains secrets – DO NOT COMMIT)
+src/test/resources/Data.properties
